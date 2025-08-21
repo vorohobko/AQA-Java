@@ -1,5 +1,5 @@
 
-public class Main {
+public class Homework_2_2{
 
 	
 	//1
